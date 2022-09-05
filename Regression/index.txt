@@ -1,0 +1,7 @@
+Regression models covered:
+Simple linear regression
+Multuple Linear regression
+polynomial regression
+support vector regression
+decision tree regression
+random forest regression
